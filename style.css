@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.secao {
+    width: 100%;
+    padding: 120px 80px;    
+}
+
+.banner {
+    background: url('img/banner-topo.jpg') center; 
+    background-size: cover;
+    
+}
+
+.banner_logo {
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.banner_logo img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.paragrafo_1 {
+    font-size: 35px;
+    margin: 0 0 5 0;
+}
+
+.paragrafo_2 {
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.banner_principal {
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 70px auto 0 auto;
+    background-color: #ffffffc4;
+}
+
+.banner_principal h1 {
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;  
+}
+
+.banner_link {
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+
+.banner_link a {
+    text-decoration: none;
+    color: #ffff;   
+}
+
+.banner_link img {
+    width: 20px;
+}
+
+.banner_sombra {
+    box-shadow: 0 8px 32px #1f26875e;
+}
+
+.subtitulo {
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.lista {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+}
+
+.lista li {
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+.italico {
+    font-weight: 700;
+    font-style: italic;
+}
+
+.servicos_imagens {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+}
+
+.servicos_imagens img {
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.faixa {
+    background: #3c184e;
+    text-align: center;
+}
+
+.faixa p {
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+}
+
+.faixa_links {
+    text-align: center;
+}
+
+.faixa_links_link {
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+.faixa_links_link img {
+    width: 50px;
+    height: 50px;
+}
+
+.secao_imagens {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+}
+
+.secao_imagens img {
+    width: 148px;
+    margin: 0 15px 0 15px;
+}
+
+.paragrafo {
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.onde_estamos {
+    text-align: center;
+}
+
+.onde_estamos iframe {
+    width: 800px;
+    height: 450px;
+}
+
+.rodape {
+    width: 100%;
+    padding: 10px 0;
+    background: #3c184e;
+    padding: 20px 0;
+}
+
+.rodape p {
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+}
+
+.rodape a {
+    text-decoration: none;
+    font-size: 14px;
+    color: aqua;
+}
